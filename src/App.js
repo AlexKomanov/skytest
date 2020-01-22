@@ -13,8 +13,9 @@ class App extends Component {
     row: null,
   }
   async componentDidMount() {
-    const response = await fetch(` http://www.filltext.com/?rows=32&id={number|1000}&firstName={firstName}&lastName={lastName}&email={email}&phone={phone|(xxx)xxx-xx-xx}&address={addressObject}&description={lorem|32}`)
-    const data = await response.json();
+    const response = await fetch(`https://www.filltext.com/?rows=32&id={number|1000}&firstName={firstName}&lastName={lastName}&email={email}&phone={phone|(xxx)xxx-xx-xx}&address={addressObject}&description={lorem|32}`)
+    //const response = await fetch("..download.json")
+    const data = await response.json()
 
     this.setState({
       isLoading: false,
