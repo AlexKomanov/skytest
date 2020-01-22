@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/skytest/static/css/main.9bb5fb44.chunk.css",
+    "main.js": "/skytest/static/js/main.7c8bcb7b.chunk.js",
+    "main.js.map": "/skytest/static/js/main.7c8bcb7b.chunk.js.map",
+    "runtime-main.js": "/skytest/static/js/runtime-main.98b0aad9.js",
+    "runtime-main.js.map": "/skytest/static/js/runtime-main.98b0aad9.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/skytest/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.974b0260.chunk.js": "/skytest/static/js/2.974b0260.chunk.js",
+    "static/js/2.974b0260.chunk.js.map": "/skytest/static/js/2.974b0260.chunk.js.map",
+    "index.html": "/skytest/index.html",
+    "precache-manifest.7fbaf0a3c78a3a90a3d667454cbae5eb.js": "/skytest/precache-manifest.7fbaf0a3c78a3a90a3d667454cbae5eb.js",
+    "service-worker.js": "/skytest/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/skytest/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.9bb5fb44.chunk.css.map": "/skytest/static/css/main.9bb5fb44.chunk.css.map",
+    "static/js/2.974b0260.chunk.js.LICENSE": "/skytest/static/js/2.974b0260.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98b0aad9.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.974b0260.chunk.js",
+    "static/css/main.9bb5fb44.chunk.css",
+    "static/js/main.7c8bcb7b.chunk.js"
+  ]
+}
